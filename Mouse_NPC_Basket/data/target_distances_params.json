@@ -1,0 +1,37 @@
+{
+	"prots_for_intradistance" : "tpr.0, tpr.1, nup50.0, nup50.1, nup153.0, nup153.1",
+	"skip_interprot_distances_for" : "munup160.0, munup85.0, munup96.0, musec13.0, museh1.0, munup107.0, munup133.0, munup43.0, munup37.0, munup160.1, munup85.1, munup96.1, musec13.1, museh1.1, munup107.1, munup133.1, munup43.1, munup37.1",
+	"DIST_CUTOFF1" : "50",
+	"DIST_CUTOFF2" : "25",
+	"DIST_CUTOFF1_PROT_LIST" : "tpr.0, tpr.1",
+	"DIST_CUTOFF2_PROT_LIST" : "nup50.0, nup50.1, nup153.0, nup153.1, munup160.0, munup85.0, munup96.0, musec13.0, museh1.0, munup107.0, munup133.0, munup43.0, munup37.0, munup160.1, munup85.1, munup96.1, musec13.1, museh1.1, munup107.1, munup133.1, munup43.1, munup37.1",
+	"tpr_seg1_seg2_midres" : "-1",
+
+	"protein_pdb_dict" : {
+
+		"mlp.0" : "Model_A_run52_clus13_highres_C8_7.pdb, H",
+		"mlp.1" : "Model_A_run52_clus13_highres_C8_7.pdb, I",
+		"nup1.0" : "Model_A_run52_clus13_highres_C8_7.pdb, S",
+		"nup60.0" : "Model_A_run52_clus13_highres_C8_7.pdb, T",
+		"nup60.1" : "Model_A_run52_clus13_highres_C8_7.pdb, U",
+		"nup2.0" : "Model_A_run52_clus13_highres_C8_7.pdb, V",
+		"nup2.1" : "Model_A_run52_clus13_highres_C8_7.pdb, W",
+
+		"ytnup120.0" : "Model_A_run52_clus13_highres_C8_7.pdb, A",
+		"ytnup85.0" : "Model_A_run52_clus13_highres_C8_7.pdb, B",
+		"ytnup145c.0" : "Model_A_run52_clus13_highres_C8_7.pdb, C",
+		"ytsec13.0" : "Model_A_run52_clus13_highres_C8_7.pdb, D",
+		"ytseh1.0" : "Model_A_run52_clus13_highres_C8_7.pdb, E",
+		"ytnup84.0" : "Model_A_run52_clus13_highres_C8_7.pdb, F",
+		"ytnup133.0" : "Model_A_run52_clus13_highres_C8_7.pdb, G",
+
+		"ytnup120.1" : "Model_A_run52_clus13_highres_C8_7.pdb, L",
+		"ytnup85.1" : "Model_A_run52_clus13_highres_C8_7.pdb, M",
+		"ytnup145c.1" : "Model_A_run52_clus13_highres_C8_7.pdb, N",
+		"ytsec13.1" : "Model_A_run52_clus13_highres_C8_7.pdb, O",
+		"ytseh1.1" : "Model_A_run52_clus13_highres_C8_7.pdb, P",
+		"ytnup84.1" : "Model_A_run52_clus13_highres_C8_7.pdb, Q",
+		"ytnup133.1" : "Model_A_run52_clus13_highres_C8_7.pdb, R"
+	}
+
+}
