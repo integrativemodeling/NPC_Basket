@@ -5,15 +5,15 @@
 
 - `data`	contains all input data for modeling
 
-- `data\gmms\*`		  GMM representation of the yeast basket cryo-et density map
+- `data/gmms/*`		  GMM representation of the yeast basket cryo-et density map
 
-- `data\alignments\*`		  Generic Mlps and Mlp1 coiled-coil alignments
+- `data/alignments/*`		  Generic Mlps and Mlp1 coiled-coil alignments
 
-- `data\fasta\*`		  All fasta sequences of the models
+- `data/fasta/*`		  All fasta sequences of the models
 
-- `data\pdbs\*`		  All input pdb files of the models
+- `data/pdbs/*`		  All input pdb files of the models
 
-- `data\xlinks\*`		  All XL-MS crosslinks used for the models
+- `data/xlinks/*`		  All XL-MS crosslinks used for the models
 
 - `output`		  Default output directory for scripts
 
@@ -22,5 +22,8 @@
 - `src`		  IMP modeling script
 
 
+## Information
+
+_Author(s)_: Neelesh Soni
 
 
